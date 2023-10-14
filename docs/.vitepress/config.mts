@@ -11,6 +11,8 @@ export default defineConfig({
       { text: '下载', link: '/download' }
     ],
 
+    logo: '/images/icon-192.png',
+
     sidebar: [
       {
         text: '说明文档',
