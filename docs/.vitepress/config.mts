@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '下载', link: '/download' }
+      { text: '使用场景', link: '/scene' }
     ],
 
     logo: '/images/icon-192.png',
@@ -18,13 +18,15 @@ export default defineConfig({
         text: '说明文档',
         items: [
           { text: '简介', link: '/about' },
+          { text: '开始使用', link: '/usage' },
+          { text: '使用场景', link: '/scene' },
           { text: '下载', link: '/download' }
         ]
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    // ]
   }
 })

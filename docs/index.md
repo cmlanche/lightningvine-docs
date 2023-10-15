@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "闪电藤"
   text: "新一代文件传输助手"
-  tagline: 安全 · 快速 · 稳定
+  tagline: 安全 · 快速 · 稳定，还原微信传输助手的使用体验
   actions:
     - theme: brand
       text: 下载
