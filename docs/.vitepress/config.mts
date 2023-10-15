@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "闪电藤",
   description: "新一代文件传输助手",
+  base: '/lightningvine-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
