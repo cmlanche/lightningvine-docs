@@ -8,11 +8,11 @@ hero:
   tagline: 安全 · 快速 · 稳定，还原微信传输助手的使用体验
   actions:
     - theme: brand
+      text: 使用说明
+      link: /about
+    - theme: alt
       text: 下载
       link: /download
-    - theme: alt
-      text: 说明文档
-      link: /about.md
   image:
     src: /images/home.png
     alt: LightningVine
