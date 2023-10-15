@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 说明文档
       link: /about.md
+  image:
+    src: /images/home.png
+    alt: LightningVine
 
 features:
   - title: 可靠传输
