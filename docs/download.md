@@ -6,6 +6,7 @@ outline: deep
 
 ## 2.0版本
 - [安卓版本](https://lightningvine.s3.bitiful.net/2.0/lightningvine-2.0.apk)
+  <img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/docs/2_0_qrcode.png">
 - [Windows版本](https://lightningvine.s3.bitiful.net/2.0/lightningvine-windows.zip)
 - [MacOS版本](https://lightningvine.s3.bitiful.net/2.0/LightningVine-mac-2.0.zip)
 

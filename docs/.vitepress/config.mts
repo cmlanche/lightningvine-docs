@@ -11,7 +11,7 @@ export default defineConfig({
       { text: '使用场景', link: '/scene' }
     ],
 
-    logo: '/images/icon-192.png',
+    logo: 'https://lightningvine.s3.bitiful.net/docs/icon-192.png',
 
     sidebar: [
       {

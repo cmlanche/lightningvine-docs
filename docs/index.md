@@ -14,7 +14,7 @@ hero:
       text: 下载
       link: /download
   image:
-    src: /images/home.png
+    src: https://lightningvine.s3.bitiful.net/docs/home.png
     alt: LightningVine
 
 features:
