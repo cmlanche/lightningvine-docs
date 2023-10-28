@@ -18,11 +18,12 @@ hero:
     alt: LightningVine
 
 features:
-  - title: 可靠传输
-    details: 基于局域网的文件传输，安全、稳定、快速
+  - title: 安全第一
+    details: 支持广域网，支持自建文件存储私服（建设中）
+  - title: 极速&可靠传输
+    details: 支持局域网内的文件传输，具有安全、稳定、快速特点
   - title: 多端支持
     details: 支持iOS、安卓、Windows、MacOS系统
   - title: 免费无广告
     details: 无广告，且基本功能完全免费
 ---
-

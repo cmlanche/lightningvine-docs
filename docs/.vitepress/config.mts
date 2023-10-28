@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '使用场景', link: '/scene' }
+      { text: '特性', link: '/features' }
     ],
 
     logo: 'https://lightningvine.s3.bitiful.net/docs/icon-192.png',
@@ -25,8 +25,8 @@ export default defineConfig({
       }
     ],
 
-    // socialLinks: [
-    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    // ]
+    socialLinks: [
+      { icon: 'github', link: 'https://gitee.com/cmlanche/lightningvine-doc' }
+    ]
   }
 })

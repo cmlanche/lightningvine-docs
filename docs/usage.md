@@ -26,9 +26,13 @@ outline: deep
 <img style="max-height: 600px;" src="https://lightningvine.s3.bitiful.net/docs/1697341001831.jpg">
 
 ### 传输示例
+**选择文件：**
+<img style="width: 50%;" src="https://lightningvine.s3.bitiful.net/docs/trans-1.jpg">
+**接收文件：**
+<img style="width: 50%;" src="https://lightningvine.s3.bitiful.net/docs/trans-2.png">
+**完成接收：**
+<img style="width: 50%;" src="https://lightningvine.s3.bitiful.net/docs/trans-3.png">
 
-| <img style="height: 400px;" src="https://lightningvine.s3.bitiful.net/docs/trans-1.jpg"> | <img style="height: 400px;" src="https://lightningvine.s3.bitiful.net/docs/trans-2.png"> | <img style="height: 400px;" src="https://lightningvine.s3.bitiful.net/docs/trans-3.png"> |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 ### 传输历史
 闪电藤和localsend不同的是，它以回话的形式，保留了与对应设备的传输历史，这样更方便查找已发送的内容，后续升级会考虑把发送历史也加上。

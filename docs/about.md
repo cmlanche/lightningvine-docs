@@ -11,6 +11,8 @@ outline: deep
 您可以关注我们的微信公众号，向我们反馈需求 or BUG
 <img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/docs/gzh.jpg" />
 
+
+
 ## 我们为什么需要闪电藤/localsend？
 
 先问大家一个问题，你们在多个设备传输文件的时候都用什么工具呢？
