@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '特性', link: '/features' }
+      // { text: '特性', link: '/features' }
     ],
 
     logo: 'https://lightningvine.s3.bitiful.net/docs/icon-192.png',
