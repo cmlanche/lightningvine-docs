@@ -26,7 +26,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://gitee.com/cmlanche/lightningvine-doc' }
+      { icon: 'github', link: 'https://github.com/cmlanche/lightningvine-docs' }
     ]
   }
 })
