@@ -3,6 +3,21 @@ outline: deep
 ---
 
 # 下载
+## 2.0.2
+- [Android版本](https://lightningvine.s3.bitiful.net/202/lightningvine-202.apk)
+<img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/202/tuzim.net_2023-11-05_16-11-28.png">
+- Windows 64位版本，不支持32位
+  - [绿色免安装版](https://lightningvine.s3.bitiful.net/202/lightningvine-windows-202.zip)
+  - [一键安装版](https://lightningvine.s3.bitiful.net/202/lightningvine-installer-202.exe)
+- [MacOS版本](https://lightningvine.s3.bitiful.net/202/LightningVine-macos-202.zip)
+- [Linux版本（支持deepin）](https://lightningvine.s3.bitiful.net/202/lightningvine-linux202.zip)
+- iOS版本目前未上线，暂时请用LocalSend代替，在App Store搜索LocalSend即可
+
+**更新内容：**
+- feat: 记录发送历史，展示发送消息
+- feat: 支持linux，并针对deepin进行了适配
+- feat：优化聊天页信息展示，每隔15分钟增加时间标记
+
 
 ## 2.0.1
 - [Android](https://lightningvine.s3.bitiful.net/2.0.1/lightningvine_android_201.apk)
