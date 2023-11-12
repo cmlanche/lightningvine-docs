@@ -3,9 +3,28 @@ outline: deep
 ---
 
 # 下载
+## 2.0.3
+- [feat] 剪贴板互传
+- [feat] 文本消息直接发送，不再转换成文件后再发送
+- [update] 更换了全新的闪电藤LOGO
+- [update] 分不同架构打包安卓apk，以减少安装体积（30M->11M）
+
+| 版本类型           | 下载地址                                                                               | 二维码                                                       |
+|----------------|------------------------------------------------------------------------------------| ------------------------------------------------------------ |
+| Linux-x64版本    | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/linux/sdt-linux-x64-2.0.3.zip) |                                                              |
+| MacOS版本        | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/macos/sdt-macos-2.0.3.zip)   |                                                              |
+| Windows免安装版本   | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-windows-2.0.3.zip) |                                                              |
+| Windows一键安装版   | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-installer.exe)   |                                                              |
+| 安卓全架构版本        | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-universal-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-universal.png" width=160> |
+| 安卓-arm64_v8a   | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-arm64-v8a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/arm64-v8a.png" width=160> |
+| 安卓-armeabi_v7a | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-armeabi-v7a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-v7a.png" width=160>                                                             |
+| 安卓-x86_64      | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-x86_64-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-x86.png" width=160>                                                             |
+
+
+
 ## 2.0.2
 - [Android版本](https://lightningvine.s3.bitiful.net/202/lightningvine-202.apk)
-<img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/202/tuzim.net_2023-11-05_16-11-28.png">
+  <img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/202/tuzim.net_2023-11-05_16-11-28.png">
 - Windows 64位版本，不支持32位
   - [绿色免安装版](https://lightningvine.s3.bitiful.net/202/lightningvine-windows-202.zip)
   - [一键安装版](https://lightningvine.s3.bitiful.net/202/lightningvine-installer-202.exe)
@@ -48,5 +67,4 @@ outline: deep
 - feat：支持删除某设备回话
 - feat：'快速保存'改为'快速接收'，含义更明确
 - feat: 重新设计App Logo，应用名称改为'闪电藤'，含义是又快又稳定的文件传输
-
 
