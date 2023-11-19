@@ -11,19 +11,21 @@ hero:
       text: 使用说明
       link: /about
     - theme: alt
-      text: 下载（2.0.2版本上线了！）
+      text: 下载（2.0.5版本上线了！）
       link: /download
   image:
     src: https://lightningvine.s3.bitiful.net/docs/home.png
     alt: LightningVine
 
 features:
-  - title: 安全第一
-    details: 支持广域网，支持自建文件存储私服（建设中）
+#  - title: 安全第一
+#    details: 支持广域网，支持自建文件存储私服（建设中）
+  - title: 聊天式传输
+    details: 要做比微信更好的传输体验
+  - title: 极简无广告
+    details: 软件极简设计，不添加任何广告
   - title: 极速&可靠传输
     details: 支持局域网内的文件传输，具有安全、稳定、快速特点
   - title: 多端支持
     details: 支持iOS、安卓、Windows、MacOS系统
-  - title: 免费无广告
-    details: 无广告，且基本功能完全免费
 ---

@@ -3,22 +3,39 @@ outline: deep
 ---
 
 # 下载
-## 2.0.3
+## 2.0.5 - 2023/11/19
+
+- 【新需求】发布ios testflight（公测申请审核中，需要等待2天左右时间）
+- 【体验优化】输入框支持快捷键，按enter直接发送，alt/command/control + enter 换行
+- 【体验优化】文本发送后，顺带拷贝到剪贴板
+- 【bugfix】win7支持，解决win7无法启动，报api-ms-xxx.dll丢失问题
+- 【bugfix】移除英文翻译，彻底中文化
+  | 版本类型                                                   | 下载地址                                                     | 二维码                                                       |
+  | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | Linux-x64版本                                              | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-linux-2.0.5.zip)                                                 |                                                              |
+  | MacOS版本                                                  | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-macos-2.0.5.zip) |                                                              |
+  | Windows免安装版本                                          | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-windows-2.0.5.zip) |                                                              |
+  | Windows一键安装版                                          | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-windows-installer-2.0.5.exe) |                                                              |
+  | 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-android-2.0.5.apk) | <img src="https://lightningvine.s3.bitiful.net/205/android-qr.png" width=160> |
+
+
+## 2.0.3 - 2023/11/12
+
 - [feat] 剪贴板互传
 - [feat] 文本消息直接发送，不再转换成文件后再发送
 - [update] 更换了全新的闪电藤LOGO
 - [update] 分不同架构打包安卓apk，以减少安装体积（30M->11M）
 
-| 版本类型           | 下载地址                                                                               | 二维码                                                       |
-|----------------|------------------------------------------------------------------------------------| ------------------------------------------------------------ |
-| Linux-x64版本    | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/linux/sdt-linux-x64-2.0.3.zip) |                                                              |
-| MacOS版本        | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/macos/sdt-macos-2.0.3.zip)   |                                                              |
-| Windows免安装版本   | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-windows-2.0.3.zip) |                                                              |
-| Windows一键安装版   | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-installer.exe)   |                                                              |
-| 安卓全架构版本        | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-universal-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-universal.png" width=160> |
-| 安卓-arm64_v8a   | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-arm64-v8a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/arm64-v8a.png" width=160> |
-| 安卓-armeabi_v7a | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-armeabi-v7a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-v7a.png" width=160>                                                             |
-| 安卓-x86_64      | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-x86_64-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-x86.png" width=160>                                                             |
+| 版本类型                                                   | 下载地址                                                     | 二维码                                                       |
+| ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Linux-x64版本                                              | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/linux/sdt-linux-x64-2.0.3.zip) |                                                              |
+| MacOS版本                                                  | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/macos/sdt-macos-2.0.3.zip) |                                                              |
+| Windows免安装版本                                          | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-windows-2.0.3.zip) |                                                              |
+| Windows一键安装版                                          | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-installer.exe) |                                                              |
+| 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-universal-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-universal.png" width=160> |
+| 安卓-arm64_v8a                                             | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-arm64-v8a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/arm64-v8a.png" width=160> |
+| 安卓-armeabi_v7a                                           | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-armeabi-v7a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-v7a.png" width=160> |
+| 安卓-x86_64                                                | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-x86_64-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-x86.png" width=160> |
 
 
 
