@@ -12,11 +12,14 @@ outline: deep
 - 【bugfix】移除英文翻译，彻底中文化
   | 版本类型                                                   | 下载地址                                                     | 二维码                                                       |
   | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | Linux-x64版本                                              | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-linux-2.0.5.zip)                                                 |                                                              |
-  | MacOS版本                                                  | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-macos-2.0.5.zip) |                                                              |
-  | Windows免安装版本                                          | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-windows-2.0.5.zip) |                                                              |
-  | Windows一键安装版                                          | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-windows-installer-2.0.5.exe) |                                                              |
-  | 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://lightningvine.s3.bitiful.net/205/sdt-android-2.0.5.apk) | <img src="https://lightningvine.s3.bitiful.net/205/android-qr.png" width=160> |
+  | Linux-x64版本                                              | [下载地址](https://cdn.zishu.life/205/sdt-linux-2.0.5.zip)                                                 |                                                              |
+  | MacOS版本                                                  | [下载地址](https://cdn.zishu.life/205/sdt-macos-2.0.5.zip) |                                                              |
+  | Windows免安装版本                                          | [下载地址](https://cdn.zishu.life/205/sdt-windows-2.0.5.zip) |                                                              |
+  | Windows一键安装版                                          | [下载地址](https://cdn.zishu.life/205/sdt-windows-installer-2.0.5.exe) |                                                              |
+  | 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://cdn.zishu.life/205/sdt-android-2.0.5.apk) | <img src="https://cdn.zishu.life/205/android-qr.png" width=160> |
+  | 安卓arm64-v8a                                              | [下载地址](https://cdn.zishu.life/205/app-arm64-v8a-release.apk) | <img src="https://cdn.zishu.life/205/qr-arm64-205.png" width=160> |
+  | 安卓armeabi-v7a                                            | [下载地址](https://cdn.zishu.life/205/app-armeabi-v7a-release.apk) | <img src="https://cdn.zishu.life/205/qr-v7a-205.png" width=160> |
+  | 安卓x86-64                                                 | [下载地址](https://cdn.zishu.life/205/app-x86_64-release.apk) | <img src="https://cdn.zishu.life/205/ar-x86-205.png" width=160> |
 
 
 ## 2.0.3 - 2023/11/12
@@ -28,25 +31,25 @@ outline: deep
 
 | 版本类型                                                   | 下载地址                                                     | 二维码                                                       |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Linux-x64版本                                              | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/linux/sdt-linux-x64-2.0.3.zip) |                                                              |
-| MacOS版本                                                  | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/macos/sdt-macos-2.0.3.zip) |                                                              |
-| Windows免安装版本                                          | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-windows-2.0.3.zip) |                                                              |
-| Windows一键安装版                                          | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/windows/sdt-installer.exe) |                                                              |
-| 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-universal-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-universal.png" width=160> |
-| 安卓-arm64_v8a                                             | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-arm64-v8a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/arm64-v8a.png" width=160> |
-| 安卓-armeabi_v7a                                           | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-armeabi-v7a-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-v7a.png" width=160> |
-| 安卓-x86_64                                                | [下载地址](https://lightningvine.s3.bitiful.net/203/2.0.3/android/sdt-x86_64-2.0.3.apk) | <img src="https://lightningvine.s3.bitiful.net/203/2.0.3/android/qr-x86.png" width=160> |
+| Linux-x64版本                                              | [下载地址](https://cdn.zishu.life/203/2.0.3/linux/sdt-linux-x64-2.0.3.zip) |                                                              |
+| MacOS版本                                                  | [下载地址](https://cdn.zishu.life/203/2.0.3/macos/sdt-macos-2.0.3.zip) |                                                              |
+| Windows免安装版本                                          | [下载地址](https://cdn.zishu.life/203/2.0.3/windows/sdt-windows-2.0.3.zip) |                                                              |
+| Windows一键安装版                                          | [下载地址](https://cdn.zishu.life/203/2.0.3/windows/sdt-installer.exe) |                                                              |
+| 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-universal-2.0.3.apk) | <img src="https://cdn.zishu.life/203/2.0.3/android/qr-universal.png" width=160> |
+| 安卓-arm64_v8a                                             | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-arm64-v8a-2.0.3.apk) | <img src="https://cdn.zishu.life/203/2.0.3/android/arm64-v8a.png" width=160> |
+| 安卓-armeabi_v7a                                           | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-armeabi-v7a-2.0.3.apk) | <img src="https://cdn.zishu.life/203/2.0.3/android/qr-v7a.png" width=160> |
+| 安卓-x86_64                                                | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-x86_64-2.0.3.apk) | <img src="https://cdn.zishu.life/203/2.0.3/android/qr-x86.png" width=160> |
 
 
 
 ## 2.0.2
-- [Android版本](https://lightningvine.s3.bitiful.net/202/lightningvine-202.apk)
-  <img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/202/tuzim.net_2023-11-05_16-11-28.png">
+- [Android版本](https://cdn.zishu.life/202/lightningvine-202.apk)
+  <img style="max-height: 200px;" src="https://cdn.zishu.life/202/tuzim.net_2023-11-05_16-11-28.png">
 - Windows 64位版本，不支持32位
-  - [绿色免安装版](https://lightningvine.s3.bitiful.net/202/lightningvine-windows-202.zip)
-  - [一键安装版](https://lightningvine.s3.bitiful.net/202/lightningvine-installer-202.exe)
-- [MacOS版本](https://lightningvine.s3.bitiful.net/202/LightningVine-macos-202.zip)
-- [Linux版本（支持deepin）](https://lightningvine.s3.bitiful.net/202/lightningvine-linux202.zip)
+  - [绿色免安装版](https://cdn.zishu.life/202/lightningvine-windows-202.zip)
+  - [一键安装版](https://cdn.zishu.life/202/lightningvine-installer-202.exe)
+- [MacOS版本](https://cdn.zishu.life/202/LightningVine-macos-202.zip)
+- [Linux版本（支持deepin）](https://cdn.zishu.life/202/lightningvine-linux202.zip)
 - iOS版本目前未上线，暂时请用LocalSend代替，在App Store搜索LocalSend即可
 
 **更新内容：**
@@ -56,11 +59,11 @@ outline: deep
 
 
 ## 2.0.1
-- [Android](https://lightningvine.s3.bitiful.net/2.0.1/lightningvine_android_201.apk)
-  <img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/2.0.1/android201qr.png">
-- [Windows64位绿色免安装版](https://lightningvine.s3.bitiful.net/2.0.1/lightningvine_x64_windows_201.zip)
-- [Windows64位一键安装版](https://lightningvine.s3.bitiful.net/2.0.1/lightningvine_x64_windows_installer_201.exe)
-- [MacOS版本](https://lightningvine.s3.bitiful.net/2.0.1/LightningVine_macos_201.zip)
+- [Android](https://cdn.zishu.life/2.0.1/lightningvine_android_201.apk)
+  <img style="max-height: 200px;" src="https://cdn.zishu.life/2.0.1/android201qr.png">
+- [Windows64位绿色免安装版](https://cdn.zishu.life/2.0.1/lightningvine_x64_windows_201.zip)
+- [Windows64位一键安装版](https://cdn.zishu.life/2.0.1/lightningvine_x64_windows_installer_201.exe)
+- [MacOS版本](https://cdn.zishu.life/2.0.1/LightningVine_macos_201.zip)
 - iOS版本目前未上线，暂时请用LocalSend代替，在App Store搜索LocalSend即可
 
 **更新内容：**
@@ -70,10 +73,10 @@ outline: deep
 - feat：安卓/MacOS下，支持预览图片和视频
 
 ## 2.0.0
-- [安卓版本](https://lightningvine.s3.bitiful.net/2.0/lightningvine-2.0.apk)
-  <img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/docs/2_0_qrcode.png">
-- [Windows版本](https://lightningvine.s3.bitiful.net/2.0/lightningvine-windows.zip)
-- [MacOS版本](https://lightningvine.s3.bitiful.net/2.0/LightningVine-mac-2.0.zip)
+- [安卓版本](https://cdn.zishu.life/2.0/lightningvine-2.0.apk)
+  <img style="max-height: 200px;" src="https://cdn.zishu.life/docs/2_0_qrcode.png">
+- [Windows版本](https://cdn.zishu.life/2.0/lightningvine-windows.zip)
+- [MacOS版本](https://cdn.zishu.life/2.0/LightningVine-mac-2.0.zip)
 
 **更新内容：**
 - feat: 首页去掉设置tab，将它放置到我的tab下，整体页面更简洁、聚焦
