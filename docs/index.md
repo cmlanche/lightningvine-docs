@@ -11,7 +11,7 @@ hero:
       text: 使用说明
       link: /about
     - theme: alt
-      text: 下载（2.0.5版本上线了！）
+      text: 下载（最新：2.1.0）
       link: /download
   image:
     src: https://lightningvine.s3.bitiful.net/docs/home.png
