@@ -6,7 +6,7 @@
 
 您可以关注我们的微信公众号，向我们反馈需求 or BUG
 
-<img style="max-height: 200px;" src="https://lightningvine.s3.bitiful.net/docs/gzh.jpg" />
+<img style="max-height: 200px;" src="https://cdn.zishu.life/docs/gzh.jpg" />
 
 ## 我们为什么需要闪电藤/localsend？
 
@@ -26,7 +26,7 @@
 **文件大小限制：**
 如无法发送超过60分钟的视频，见下图：
 
-<img style="max-height: 160px;" src="https://lightningvine.s3.bitiful.net/docs/1.mm.jpg" />
+<img style="max-height: 160px;" src="https://cdn.zishu.life/docs/1.mm.jpg" />
 
 **传输速度慢：**
 因为微信传输是基于网络的，因此它的传输速度取决于您自家的网络宽度以及微信服务器的稳定等诸多因素，对稍大（超过100M）的文件都不适宜用微信作为传输工具。

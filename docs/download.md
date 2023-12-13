@@ -20,7 +20,7 @@ outline: deep
     |----------------------------------| ------------------------------------------------------------ |--------------------------------------------|
   | Linux-x64版本                      | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-linux.zip)                                                 |                                            |
   | MacOS版本                          | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-macos.zip) |                                            |
-  | Windows绿色版                       | [下载地址](https://lightningvine.s3.bitiful.net/2.1.0/sdt-210-windows-green.zip) |                                            |
+  | Windows绿色版                       | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-windows-green.zip) |                                            |
   | Windows一键安装版                     | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-windows-installer.exe) |                                            |
   | 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-release.apk) | <img src="./images/apk_all.png" width=160> |
   | 安卓arm64-v8a                      | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-arm64-v8a-release.apk) | <img src="./images/apk_v8a.png" width=160> |

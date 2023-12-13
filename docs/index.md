@@ -14,7 +14,7 @@ hero:
       text: 下载（最新：2.1.0）
       link: /download
   image:
-    src: https://lightningvine.s3.bitiful.net/docs/home.png
+    src: https://cdn.zishu.life/docs/home.png
     alt: LightningVine
 
 features:

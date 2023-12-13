@@ -11,7 +11,7 @@ export default defineConfig({
       // { text: '特性', link: '/features' }
     ],
 
-    logo: 'https://lightningvine.s3.bitiful.net/docs/icon-192.png',
+    logo: 'https://cdn.zishu.life/docs/icon-192.png',
 
     sidebar: [
       {
