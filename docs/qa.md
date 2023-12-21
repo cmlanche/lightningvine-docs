@@ -37,6 +37,3 @@ outline: deep
 ## windows不能向手机发送文件，反之可以
 
 这个问题是windows防火墙的原因，可以关闭防火墙，或者在windows防火墙里面把闪电藤加入到信任列表即可。
-
-添加到信任列表的方法，见下图所示：
-![img.png](./images/img_6.jpg)
