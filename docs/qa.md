@@ -34,6 +34,16 @@ outline: deep
 加密设置在：设置 - 网络设置 - 加密，见下图：
 <img style="max-height: 400px;" src="./images/img_4.jpg">
 
+如果取消加密还没效果，那么请确认你的WiFi的ap设置是否为5G，如下图所示
+
+<img style="max-height: 400px;" src="./images/ap.png">
+
+如果是ios手机，最好把WiFi设置成”低数据模式“，接收速度会有明显提升，如下图所示：
+
+<img style="max-height: 400px;" src="./images/low.png">
+
 ## windows不能向手机发送文件，反之可以
 
 这个问题是windows防火墙的原因，可以关闭防火墙，或者在windows防火墙里面把闪电藤加入到信任列表即可。
+
+
