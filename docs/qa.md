@@ -46,4 +46,6 @@ outline: deep
 
 这个问题是windows防火墙的原因，可以关闭防火墙，或者在windows防火墙里面把闪电藤加入到信任列表即可。
 
+<img style="max-height: 800px;" src="./images/img_6.jpg">
+
 
