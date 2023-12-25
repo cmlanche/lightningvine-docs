@@ -48,4 +48,13 @@ outline: deep
 
 <img style="max-height: 800px;" src="./images/img_6.jpg">
 
+## 没有WiFi，怎么实现局域网互传
+
+可以看来自QQ用户”全幼儿最美的总结“：
+
+第一种是两个设备链接路由器WiFi（同一个WiFi），如果没有WiFi，还有一种是手机打开热点，另一个设备连接这个热点（这个可以开启热点的WiFi5G，第6带技术），也可以传输，这样传输速度更快，但是要闪电藤软件上关闭（加密）两个设备都要关闭，然后重启软件
+
+例如小米手机开启ap 5Ghz，如下图：
+<img style="max-height: 400px;" src="./images/ap.png">
+
 
