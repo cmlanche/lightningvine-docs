@@ -21,7 +21,8 @@ export default defineConfig({
           { text: '开始使用', link: '/usage' },
           { text: '使用场景', link: '/scene' },
           { text: '常见问题', link: '/qa' },
-          { text: '下载', link: '/download' }
+          { text: '下载', link: '/download' },
+          { text: '隐私政策', link: '/privacy' },
         ]
       }
     ],
