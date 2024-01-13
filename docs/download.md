@@ -21,14 +21,16 @@ outline: deep
 - 【BUG】解决缓存无线增长的问题 @花雨落逝
 - 【BUG】iOS支持清空缓存，目前无法清空，导致占用过多硬盘 @张先生
 
-- | 版本类型         | 下载地址                                                                                                                                            |
-  | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/2.1.2/sd-2.1.2-linux.zip)                                                                        |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2.macos.zip)                                                                            |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.2/sdtt-2.1.2.windows.zip)                                                                      |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2-windows-installer.exe)                                                                |
-  | iOS          | 上架中，可以通过tf提前参与内测：[https://testflight.apple.com/join/2Wx9jmUo](https://testflight.apple.com/join/2Wx9jmUo)                                       |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2-release.apk)<br/><br/>![](https://lightningvine.s3.bitiful.net/2.1.2/qr-android-2.1.2.png) |
+windows7系统，请下载2.1.1版本，见[历史版本](history.html)
+
+- | 版本类型         | 下载地址                                                                                                                                          |
+  | ------------ |-----------------------------------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/2.1.2/sd-2.1.2-linux.zip)                                                                                       |
+  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2.macos.zip)                                                                                      |
+  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.2/sdtt-2.1.2.windows.zip)                                                                                   |
+  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2-windows-installer.exe)                                                                          |
+  | iOS          | 上架中，可以通过tf提前参与内测：[https://testflight.apple.com/join/2Wx9jmUo](https://testflight.apple.com/join/2Wx9jmUo)  <br> [ipa下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2.ipa)                   |
+  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2-release.apk)<br/><br/>![](https://cdn.zishu.life/2.1.2/qr-android-2.1.2.png) |
 
 ## 历史版本
 
