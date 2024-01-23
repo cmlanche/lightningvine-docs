@@ -57,4 +57,11 @@ outline: deep
 例如小米手机开启ap 5Ghz，如下图：
 <img style="max-height: 400px;" src="./images/ap.png">
 
+## windows电脑连网线，手机连WiFi，手机可以给电脑发，电脑给手机发送被拒绝连接
+
+很有可能是因为你电脑的ip设置的是固定ip，错误如下图所示：
+
+<img style="max-height: 800px;" src="./images/qa_image8.jpg">
+
+解决方法：windows电脑端切换成自动获取ip（切换后，手机端刷新一下，可以重新获取设备ip）
 
