@@ -24,7 +24,7 @@ outline: deep
   | ------------ |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   | Linux-x64版本  | 春节后提供                                                                                                                                                            |
   | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-macos.zip)                                                                                                         |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows.zip)                                                                                                       |
+  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-7-11.zip)                                                                                                       |
   | Windows一键安装版 | 春节后提供                                                                                                                                                            |
   | iOS          | 上架中，可以通过tf提前参与内测：[https://testflight.apple.com/join/2Wx9jmUo](https://testflight.apple.com/join/2Wx9jmUo)  |
   | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3.apk)<br/><br/>![](https://cdn.zishu.life/2.1.3/qr-2.1.3-apk.png)                                              |
