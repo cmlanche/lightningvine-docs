@@ -21,10 +21,10 @@ outline: deep
 | 版本类型         | 下载地址                                                                                                                |
   | ------------ |---------------------------------------------------------------------------------------------------------------------|
   | Linux-x64版本  | 春节后提供                                                                                                               |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-macos-fix.zip)                                          |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-fix.zip)                                        |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-installer.exe)                                  |
-  | iOS          | 上架中，可以通过tf提前参与内测：[https://testflight.apple.com/join/2Wx9jmUo](https://testflight.apple.com/join/2Wx9jmUo)           |
+  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-macos-fix.zip)                                                        |
+  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-fix.zip)                                                      |
+  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-installer.exe)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
   | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3.apk)<br/><br/>![](https://cdn.zishu.life/2.1.3/qr-2.1.3-apk.png) |
 
 ## 历史版本
