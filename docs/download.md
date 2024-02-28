@@ -20,7 +20,7 @@ outline: deep
 
 | 版本类型         | 下载地址                                                                                                                |
   | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | 春节后提供                                                                                                               |
+  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-linux.zip)   或者在deepin和星火应用商店下载                                       |
   | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-macos-fix.zip)                                                        |
   | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-fix.zip)                                                      |
   | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-installer.exe)                                                |
