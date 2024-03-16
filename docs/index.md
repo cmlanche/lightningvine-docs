@@ -11,7 +11,7 @@ hero:
       text: 使用说明
       link: /about
     - theme: alt
-      text: 下载（最新2.1.3版本）
+      text: 下载（最新2.1.6版本）
       link: /download
   image:
     src: https://cdn.zishu.life/docs/home.png
