@@ -4,9 +4,15 @@ outline: deep
 
 # 下载
 
-## 2.1.6 - 2024/03/16
+## 2.1.7 - 2024/03/17
 
 > 常见问题：见[地址](/qa.html)
+
+2.1.6版本有2个比较严重的BUG，紧急修复下，上线2.1.7
+- BUG1：剪贴板同步功能中，**控制某设备释放不同步的开关失灵，现已解决**
+- BUG2：iOS未上线的情况下，始终弹出更新提示，现在iOS暂时禁用更新推送，保障iOS可用
+
+2.1.7的更新内容和2.1.6保持一致，内容如下：
 
 **[全新功能]**
 1. **支持自动剪贴板同步** @守护 @Rsugar @闪电侠客（免费版本限制最多20个字同步，付费会员不限字数）
@@ -22,12 +28,12 @@ outline: deep
 
 | 版本类型         | 下载地址                                                                                                                |
   | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/216/sdt-linux-2.1.6.zip)   或者在deepin和星火应用商店下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/216/sdt-macos-2.1.6.zip)                                                        |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/216/sdt-windows-2.1.6.zip)                                                      |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/216/sdt-2.1.6-windows-installer.exe)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可 （2.1.6暂未上架，需要等一段时间）                                                                                          |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/216/sdt-android-2.1.6.apk)<br/><br/>![](https://cdn.zishu.life/216/android-2.1.6-qr.png) |
+  | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
+  | MacOS版本      | [下载地址](https://cdn.zishu.life/217/sdt-macos-2.1.7.zip)                                                        |
+  | Windows绿色版   | [下载地址](https://cdn.zishu.life/217/sdt-windows-2.1.7.zip)                                                      |
+  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/217/sdt-2.1.7-windows-installer.exe)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可 （2.1.7暂未上架，需要等一段时间）                                                                                          |
+  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/217/sdt-android-2.1.7.apk)<br/><br/>![](https://cdn.zishu.life/217/2.1.7-android-qr.png) |
 
 ## 历史版本
 
