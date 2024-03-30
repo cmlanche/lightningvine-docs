@@ -18,19 +18,6 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>2.1.7版本</title>
-            <sparkle:releaseNotesLink>
-                https://sdt.zishu.life/download.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt-2.1.7(218)-macos.zip"
-                       sparkle:edSignature="ytPth1l0llx29Xlmuf03qykL9crlOGpEcY+5n1+qH3Beg/JuuXncEjqnfnBAkXPycRzGx1Gmj3bh7+EwyoTVDw=="
-                       sparkle:version="2.1.7"
-                       sparkle:os="macos"
-                       length="26047056"
-                       type="application/octet-stream" />
-        </item>
-        <item>
             <title>Version 1.1.0</title>
             <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
