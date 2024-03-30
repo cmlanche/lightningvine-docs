@@ -11,7 +11,7 @@ export default defineConfig({
       { text: '常见问题', link: '/qa' }
     ],
 
-    logo: 'https://cdn.zishu.life/docs/icon-192.png',
+    logo: 'images/icon.png',
 
     sidebar: [
       {
