@@ -5,6 +5,19 @@
         <description>一个便捷安全快速的文件传输工具</description>
         <language>en</language>
         <item>
+            <title>3.0.0版本</title>
+            <sparkle:releaseNotesLink>
+                https://sdt.zishu.life/download.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
+            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt-3.0.0(300)-macos.zip"
+                       sparkle:edSignature="6k4TyChiTr9YgCH3aJWUGZEKrzCyGjpUnqFLeZQjnYvHtRZfK2Iy0aJJhcxnjRIjkLuB0T6IM1QzuBmp+nGAAg=="
+                       sparkle:version="3.0.0"
+                       sparkle:os="macos"
+                       length="26070899"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>2.1.9版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
