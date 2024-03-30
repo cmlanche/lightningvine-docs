@@ -5,29 +5,29 @@
         <description>一个便捷安全快速的文件传输工具</description>
         <language>cn</language>
         <item>
-            <title>Version 2.1.8</title>
+            <title>2.1.8版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt--2.1.8(219)-macos.dmg"
-                       sparkle:edSignature="g7WT0IBrwpiRpuLB1NARS/AE1XvgwYXddYvb38Gib+qXRvsJmJhYNmVUFxHtSmXruL4aKwGlLsFCUmkI1ZXACw=="
+            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt-2.1.8(219)-macos.zip"
+                       sparkle:edSignature="EuKOAFDiwSEYhlPW0EYgvqQEyBc66HydAWn4klGdWa9deCIIJkdaLSJhfd+NVS7odOl+X1gISe2xMVxZHXfbBA=="
                        sparkle:version="2.1.8"
                        sparkle:os="macos"
-                       length="26569627"
+                       length="26046994"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 2.1.7</title>
+            <title>2.1.7版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt--2.1.7(218)-macos.dmg"
-                       sparkle:edSignature="U0Z8k5WlMxmw0b4R1zBRI1v3o3e0ChkjDoiccaFs7dKZf9nQutdUUixdzNKoZ+nr+6j9JsljbMY5oIGfVOvqDQ=="
+            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt-2.1.7(218)-macos.zip"
+                       sparkle:edSignature="ytPth1l0llx29Xlmuf03qykL9crlOGpEcY+5n1+qH3Beg/JuuXncEjqnfnBAkXPycRzGx1Gmj3bh7+EwyoTVDw=="
                        sparkle:version="2.1.7"
                        sparkle:os="macos"
-                       length="26571766"
+                       length="26047056"
                        type="application/octet-stream" />
         </item>
         <item>
