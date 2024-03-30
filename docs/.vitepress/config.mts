@@ -11,7 +11,7 @@ export default defineConfig({
       { text: '常见问题', link: '/qa' }
     ],
 
-    logo: 'images/icon.png',
+    logo: '/icon.png',
 
     sidebar: [
       {
