@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>auto_updater_example</title>
-        <description>Most recent updates to auto_updater_example</description>
+        <title>闪电藤更新</title>
+        <description>一个便捷安全快速的文件传输工具</description>
         <language>cn</language>
+        <item>
+            <title>Version 2.1.8</title>
+            <sparkle:releaseNotesLink>
+                https://sdt.zishu.life/download.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
+            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt--2.1.8(219)-macos.dmg"
+                       sparkle:edSignature="g7WT0IBrwpiRpuLB1NARS/AE1XvgwYXddYvb38Gib+qXRvsJmJhYNmVUFxHtSmXruL4aKwGlLsFCUmkI1ZXACw=="
+                       sparkle:version="2.1.8"
+                       sparkle:os="macos"
+                       length="26569627"
+                       type="application/octet-stream" />
+        </item>
         <item>
             <title>Version 2.1.7</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="1.1.0+2/auto_updater_example-1.1.0+2-macos.zip"
-                       sparkle:edSignature="7vl4AfrdShmo2+7vD479+Tg+UWbumjIR7m+MmS7a8VsDUUwNh2+bDbU1FGJfjp485PARl4jIn3uFvQdBHk21CA=="
+            <enclosure url="https://lightningvine.s3.bitiful.net/test/sdt--2.1.7(218)-macos.dmg"
+                       sparkle:edSignature="U0Z8k5WlMxmw0b4R1zBRI1v3o3e0ChkjDoiccaFs7dKZf9nQutdUUixdzNKoZ+nr+6j9JsljbMY5oIGfVOvqDQ=="
                        sparkle:version="2.1.7"
                        sparkle:os="macos"
-                       length="26569575"
+                       length="26571766"
                        type="application/octet-stream" />
         </item>
         <item>
