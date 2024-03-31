@@ -21,7 +21,7 @@
         <item>
             <title>Version 1.1.0</title>
             <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
+                https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
             <sparkle:version>219</sparkle:version>
             <sparkle:shortVersionString>2.1.8</sparkle:shortVersionString>
