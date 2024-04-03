@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 聊天式传输
-    details: 立志代替微信文件传输助手
+    details: 立志取代微信文件传输助手
   - title: 补充并增强
     details: 专注补充LocalSend的国内使用体验
   - title: 极速且可靠
