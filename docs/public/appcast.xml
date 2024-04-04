@@ -19,6 +19,20 @@
                        type="application/octet-stream" />
         </item>
         <item>
+            <title>2.1.9版本</title>
+            <sparkle:releaseNotesLink>
+                https://sdt.zishu.life/download.html
+            </sparkle:releaseNotesLink>
+            <sparkle:version>229</sparkle:version>
+            <sparkle:shortVersionString>2.1.9</sparkle:shortVersionString>
+            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
+            <enclosure url="https://cdn.zishu.life/2.1.8/sdt-2.1.8-windows.exe"
+                       sparkle:dsaSignature="MD0CHQCd62Qh8BTApKULfhtN4GhdUCRPFktiiMnFbIs+AhwcvNm6vsoWLW6hD418cOj1DbgnLELgiDKXU2m8"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>2.1.8版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
