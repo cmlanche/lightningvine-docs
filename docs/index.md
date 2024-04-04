@@ -23,7 +23,7 @@ features:
   - title: 补充并增强
     details: 专注补充LocalSend的国内使用体验
   - title: 极速且可靠
-    details: 支持局域网内的文件传输，具有安全、稳定、快速特点
+    details: 支持局域网内的文件传输，安全、稳定、快速
   - title: 全平台支持
     details: 支持iOS、安卓、Windows、MacOS系统、Linux
 ---
