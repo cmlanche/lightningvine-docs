@@ -27,8 +27,7 @@
             <enclosure url="https://cdn.zishu.life/2.1.8/sdt-2.1.8-windows.exe"
                        sparkle:dsaSignature="MD0CHQCd62Qh8BTApKULfhtN4GhdUCRPFktiiMnFbIs+AhwcvNm6vsoWLW6hD418cOj1DbgnLELgiDKXU2m8"
                        sparkle:os="windows"
-                       sparkle:version="219"
-                       sparkle:shortVersionString="2.1.8"
+                       sparkle:version="2.1.8"
                        length="0"
                        type="application/octet-stream" />
         </item>
