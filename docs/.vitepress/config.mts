@@ -6,6 +6,17 @@ export default defineConfig({
   description: "新一代文件传输助手",
   lang: 'zh-Hans',
   appearance: 'dark',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
+    ['meta', { name: 'theme-color', content: '#5f67ee' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:locale', content: 'zh' }],
+    ['meta', { property: 'og:title', content: '闪电藤 | 新一代文件传输助手' }],
+    ['meta', { property: 'og:site_name', content: '闪电藤' }],
+    ['meta', { property: 'og:image', content: 'https://sdt.zishu.life/home_logo.png' }],
+    ['meta', { property: 'og:url', content: 'https://sdt.zishu.life/' }],
+    ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav(),
