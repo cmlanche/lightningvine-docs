@@ -14,7 +14,7 @@ hero:
       text: 下载（最新2.1.8版本）
       link: /download
   image:
-    src: ./images/home_logo.png
+    src: /home_logo.png
     alt: 闪电藤
 
 features:
