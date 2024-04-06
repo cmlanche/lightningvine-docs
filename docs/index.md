@@ -14,8 +14,8 @@ hero:
       text: 下载（最新2.1.8版本）
       link: /download
   image:
-    src: https://cdn.zishu.life/docs/home.png
-    alt: LightningVine
+    src: ./images/home_logo.png
+    alt: 闪电藤
 
 features:
   - title: 聊天式传输
