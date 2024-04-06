@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.21"
+    "vitepress": "^1.0.0-rc.21",
+    "markdown-it-mathjax3": "^4.3.2"
   }
 }
