@@ -15,10 +15,8 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: '闪电藤' }],
     ['meta', { property: 'og:image', content: 'https://sdt.zishu.life/home_logo.png' }],
     ['meta', { property: 'og:url', content: 'https://sdt.zishu.life/' }],
-    ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
   ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: nav(),
 
     logo: '/icon.png',

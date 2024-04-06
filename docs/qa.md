@@ -4,14 +4,12 @@ outline: deep
 
 # 常见问题
 
-## 缺少VCRUNTIME140.DLL等VC相关的DLL
+## 部分win7电脑打开黑屏
 
 如下图所示：
-<img style="max-height: 400px;" src="./images/img_5.png">
+<img style="max-height: 400px;" src="./images/black_screen_win7.jpg">
 
-下载[这个文件](https://cdn.zishu.life/env/win10_fix.exe)即可
-
-参考[公众号文章](https://mp.weixin.qq.com/s/ni5GXFfyfE8iKQTu3BdyYw)
+下载[这个文件](https://cdn.zishu.life/env/ms-net-framework4.8.exe)安装即可
 
 ## [500]Cound not save file
 
