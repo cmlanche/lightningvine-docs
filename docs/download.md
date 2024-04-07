@@ -26,6 +26,7 @@ outline: deep
   | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
   | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.8/sdt-2.1.8-macos.dmg)                                                        |
   | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.8/sdt-2.1.8-windows.exe)                                                |
+  | Windows绿色版 | [下载地址](https://cdn.zishu.life/2.1.8/sdt-2.1.8-release.zip)                                                |
   | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
   | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.8/sdt-android-2.1.8.apk)<br/><br/>![](https://cdn.zishu.life/2.1.8/qr-2.1.8.jpeg) |
 
