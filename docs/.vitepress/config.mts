@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'zh-Hans',
   appearance: 'dark',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
+      ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'zh' }],
@@ -15,6 +15,15 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: '闪电藤' }],
     ['meta', { property: 'og:image', content: 'https://sdt.zishu.life/home_logo.png' }],
     ['meta', { property: 'og:url', content: 'https://sdt.zishu.life/' }],
+      ['script', {}, `
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?cb876a866c032c33303fea19b328d0c4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+      `]
   ],
   themeConfig: {
     nav: nav(),
