@@ -11,7 +11,7 @@ hero:
       text: 使用说明
       link: /about
     - theme: alt
-      text: 下载（最新2.1.8版本）
+      text: 下载（最新2.1.9版本）
       link: /download
   image:
     src: /home_logo.png
