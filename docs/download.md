@@ -4,27 +4,29 @@ outline: deep
 
 # 下载
 
-## 2.1.9 - 2024/04/13
+## 2.2.0 - 2024/05/18
 
 > 常见问题：见[地址](/qa.html)
 
-**[全新功能]**
-暂无
+**[全新功能]**飞
+1. 网盘管理：上传/下载/创建目录/重命名/转发/删除等
 
 **[体验优化]**
-1. 支持删除和清空剪贴板记录
+1. 设备名称不再使用随机名称，而是采用设备型号等具有标识性信息
+2. 设备列表中的设备icon上色，使其更具有区分度
+3. 设备二维码移到首页，更方便扫码连接
 
 **[BUG修复]**
-1. 解决剪贴板文本过大，导致UI卡死问题，现在最多展示500字，用独立的弹框查看全部
+1. app降级时遇到数据库不兼容的问题，支持一键数据库重建
 
 | 版本类型         | 下载地址                                                                                                                |
   | ------------ |---------------------------------------------------------------------------------------------------------------------|
   | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.9/sdt-2.1.9-macos.dmg)                                                        |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.9/sdt-2.1.9-windows.exe)                                                |
-  | Windows绿色版 | [下载地址](https://cdn.zishu.life/2.1.9/闪电藤2.1.9.zip)                                                |
+  | MacOS版本      | [下载地址](https://cdn.zishu.life/220/sdt-2.2.0-macos.dmg)                                                        |
+  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/220/sdt-2.2.0-windows.exe)                                                |
+  | Windows绿色版 | [下载地址](https://cdn.zishu.life/220/sdt-windows-220.zip)                                                |
   | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.9/sdt-2.1.9-android.apk)<br/><br/>![](https://cdn.zishu.life/2.1.9/qr-2.1.9.png) |
+  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/220/sdt-220-android.apk)<br/><br/>![](https://cdn.zishu.life/220/qr-220-apk.png) |
 
 ## 历史版本
 
