@@ -9,25 +9,25 @@
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
-            <sparkle:version>220</sparkle:version>
-            <sparkle:shortVersionString>2.1.9</sparkle:shortVersionString>
+            <sparkle:version>221</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://cdn.zishu.life/2.1.9/sdt-2.1.9-macos.zip"
-                       sparkle:edSignature="ZObp3gnn2x3jrZLKDGeXMeKiD8Nru8BZdZvyjqeySVU6w7xUUEV8jkvdg9eQnhjAZgBQrFhDzvK5B7Aj33haDw=="
+            <enclosure url="https://lightningvine.s3.bitiful.net/220/sdt-2.2.0-macos.zip"
+                       sparkle:edSignature="XGyWLFPObs6xmQ4RDIntkOwhPz7RpvmawN/FkGjanGu/Vbu2QOm6oCdISu6VM50lStJYCCTCJ58Df+YYcsADDg=="
                        sparkle:os="macos"
-                       length="26090154"
+                       length="26781255"
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>2.1.9版本</title>
+            <title>2.2.0版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://cdn.zishu.life/2.1.9/sdt-2.1.9-windows.exe"
-                       sparkle:dsaSignature="MDwCHHFdhWpZlpD5sZK1LqujOFMMPsAjiqjiO4JabBUCHEchDjV+cvInFUD+5UhrnMTZk0EgXyDxpvd1+7g="
+            <enclosure url="https://lightningvine.s3.bitiful.net/220/sdt-2.2.0-windows.exe"
+                       sparkle:dsaSignature="MDwCHGN4ZHa6Q5Xda814ugl2alHe5CF++pVBfo+ZwbcCHBYsyJZZkRDD3S6lcXAgSXkpBfJvLeHd9D8EURE="
                        sparkle:os="windows"
-                       sparkle:version="2.1.9+220"
+                       sparkle:version="2.2.0+221"
                        length="0"
                        type="application/octet-stream" />
         </item>
