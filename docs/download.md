@@ -4,7 +4,7 @@ outline: deep
 
 # 下载
 
-## 2.2.0 - 2024/05/18
+## 2.2.1 - 2024/05/19
 
 > 常见问题：见[地址](/qa.html)
 
@@ -14,9 +14,10 @@ outline: deep
 1. 网盘管理：上传/下载/创建目录/重命名/转发/删除等，查看[使用说明](/pan.html)
 
 **[体验优化]**
-1. 设备名称不再使用随机名称，而是采用设备型号等具有标识性信息
+1. 设备名称不再使用随机名称，而是采用设备型号等具有标识性信息，并支持编辑
 2. 设备列表中的设备icon上色，使其更具有区分度
 3. 设备二维码移到首页，更方便扫码连接
+4. 文本文件以文件形式展示，点击进入预览页面
 
 **[BUG修复]**
 1. app降级时遇到数据库不兼容的问题，支持一键数据库重建
@@ -24,11 +25,11 @@ outline: deep
 | 版本类型         | 下载地址                                                                                                                |
   | ------------ |---------------------------------------------------------------------------------------------------------------------|
   | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/220/sdt-2.2.0-macos.dmg)                                                        |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/220/sdt-2.2.0-windows.exe)                                                |
-  | Windows绿色版 | [下载地址](https://cdn.zishu.life/220/sdt-windows-220.zip)                                                |
+  | MacOS版本      | [下载地址](https://cdn.zishu.life/221/sdt-2.2.1-macos.dmg)                                                        |
+  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/221/sdt-2.2.1-windows.exe)                                                |
+  | Windows绿色版 | [下载地址](https://cdn.zishu.life/221/sdt-2.2.1-windows.zip)                                                |
   | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/220/sdt-220-android.apk)<br/><br/>![](https://cdn.zishu.life/220/qr-220-apk.png) |
+  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/221/sdt-2.2.1-android.apk)<br/><br/>![](https://cdn.zishu.life/221/qr-android-221.png) |
 
 ## 历史版本
 
