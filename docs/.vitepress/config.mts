@@ -77,6 +77,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '简介', link: '/about' },
         { text: '开始使用', link: '/usage' },
+        { text: '网盘功能', link: '/pan' },
         { text: '使用场景', link: '/scene' },
         { text: '常见问题', link: '/qa' },
         { text: '下载', link: '/download' },
