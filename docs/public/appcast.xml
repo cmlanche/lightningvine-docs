@@ -5,12 +5,12 @@
         <description>一个便捷安全快速的文件传输工具</description>
         <language>en</language>
         <item>
-            <title>2.2.1版本</title>
+            <title>2.2.3版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
-            <sparkle:version>223</sparkle:version>
-            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <sparkle:version>224</sparkle:version>
+            <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://lightningvine.s3.bitiful.net/2.2.3/sdt-2.2.3-macos.zip"
                        sparkle:edSignature="wSJzj/ZoxJl2mZPqybarCGfjaoCQOehtFboV9KP+6027oXSg2GlphnRX+FTB0nrcbkbJ74masu6oRGKMwBcNAA=="
