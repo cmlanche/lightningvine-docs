@@ -26,7 +26,7 @@ outline: deep
 
 | 版本类型         | 下载地址                                                                                                                |
   | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载，[下载地址](https://www.123pan.com/s/cXByVv-DBpk.html)                                       |
   | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-IBpk.html)                                                        |
   | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-JBpk.html)                                                |
   | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-MBpk.html)                                                |
