@@ -32,6 +32,4 @@ outline: deep
   | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-MBpk.html)                                                |
   | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
   | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://www.123pan.com/s/cXByVv-wBpk.html) |
-
-## 历史版本
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-wBpk.html) |
