@@ -30,10 +30,8 @@ outline: deep
   | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-IBpk.html)                                                        |
   | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-JBpk.html)                                                |
   | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-MBpk.html)                                                |
-  | Windows 7 | 请用2.1.9且不要升级 [下载地址](/history.html#_2-1-9-2024-04-13)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
   | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://www.123pan.com/s/cXByVv-wBpk.html)<br/><br/>![](https://cdn.zishu.life/2.2.3/qr-apk-2.2.3.png) |
+  | 安卓apk        | <br/>[下载地址](https://www.123pan.com/s/cXByVv-wBpk.html) |
 
 ## 历史版本
-
-[历史版本](history.html)
