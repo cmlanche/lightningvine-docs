@@ -9,7 +9,7 @@ outline: deep
 如下图所示：
 <img style="max-height: 400px;" src="./images/black_screen.png">
 
-下载[这个文件](https://cdn.zishu.life/env/ms-net-framework4.8.exe)安装即可
+下载[这个文件](https://www.123pan.com/s/cXByVv-depk.html)安装即可
 
 ## [500]Cound not save file
 
