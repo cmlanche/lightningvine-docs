@@ -9,13 +9,13 @@
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
-            <sparkle:version>227</sparkle:version>
+            <sparkle:version>232</sparkle:version>
             <sparkle:shortVersionString>2.2.7</sparkle:shortVersionString>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://lightningvine.s3.bitiful.net/2.2.3/sdt-2.2.3-macos.zip"
-                       sparkle:edSignature="lQ6yqk002gBBQ9FjJtSaGqJeUgwX+sGrQRAFaaqyJ5Lvy6WvbMQoaI1fFyjYptoOCKne/NBRPt5Apfm8e8zbBA=="
+            <enclosure url="https://sdtpub.s3.bitiful.net/publish/2.2.7/sdt-2.2.7-macos.zip"
+                       sparkle:edSignature="PEwy67srNVvgoedCI15swfpgMgfoDZCe7hOOCEqZ7J2VbqKJ44Qwq6EQUc/2Mahcx+rsFXiMNfwj3rGfpFYMCg=="
                        sparkle:os="macos"
-                       length="26786894"
+                       length="26786793"
                        type="application/octet-stream" />
         </item>
         <item>
