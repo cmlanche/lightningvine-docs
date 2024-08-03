@@ -66,7 +66,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '主页', link: '/' },
     { text: '常见问题', link: '/qa' },
-    { text: '联系我们', link: '/support' },
+    { text: '友链', link: '/frendlinks' },
   ]
 }
 
