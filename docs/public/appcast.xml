@@ -19,15 +19,15 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>2.2.7版本</title>
+            <title>2.3.0版本</title>
             <sparkle:releaseNotesLink>
                 https://sdt.zishu.life/download.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="https://sdtpub.s3.bitiful.net/publish/2.2.7/sdt-2.2.7(232)-windows.exe"
-                       sparkle:dsaSignature="MDwCHFdPp3r0iyy3Zim5ynzeAcWbm4w5R5MvrQOmnNgCHEhK+ZZrxoNAhzpsM/KGH8+YyV4aQ5SbIcapzEA="
+            <enclosure url="https://sdtpub.s3.bitiful.net/publish/2.3.0/sdt-2.3.0-windows.exe"
+                       sparkle:dsaSignature="MDwCHGg0CJt07DYLDTFapYgdpKdJlZUvyY5yl2xxxbACHBg/yDllbWn2K/tZG5ly/uWloM5FEPqYlX9yDwA="
                        sparkle:os="windows"
-                       sparkle:version="2.2.7+232"
+                       sparkle:version="2.3.0+236"
                        length="0"
                        type="application/octet-stream" />
         </item>
