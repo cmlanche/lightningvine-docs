@@ -4,6 +4,9 @@ outline: deep
 
 # 常见问题
 
+## 最新macos 15 beta版本打开后白屏
+请把闪电藤.app重命名为sdt.app，再打开即可
+
 ## 部分win7电脑打开黑屏
 
 如下图所示：
