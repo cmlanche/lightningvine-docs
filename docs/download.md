@@ -26,6 +26,6 @@ BUG修复：
   | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-jYfk)                                                |
   | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
   | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-yYfk) |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-kGfk) |
 
 [历史版本](/history.html)
