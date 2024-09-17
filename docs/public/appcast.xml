@@ -6,17 +6,8 @@
         <language>en</language>
         <item>
             <title>2.5.0版本</title>
-            <description>
-            新功能：
-            1. 待发文件箱持久化，已添加的文件会永久保存，除非文件不存在或者主动删除
-
-            BUG修复：
-            1. 修复windows闪电藤启动有黑框闪过问题
-            2. 修复重装移动端app后，设备列表会新增app问题
-            3. 支持闪电藤已启动检测，禁止二次启动
-            </description>
             <sparkle:releaseNotesLink>
-                https://sdt.zishu.life/download.html
+                https://sdt.zishu.life/release_note.html
             </sparkle:releaseNotesLink>
             <sparkle:version>250</sparkle:version>
             <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
@@ -30,7 +21,7 @@
         <item>
             <title>2.3.5版本</title>
             <sparkle:releaseNotesLink>
-                https://sdt.zishu.life/download.html
+                https://sdt.zishu.life/release_note.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://sdtpub.s3.bitiful.net/publish/2.3.5/sdt-2.3.5-windows.exe"
