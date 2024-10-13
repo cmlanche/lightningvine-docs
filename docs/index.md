@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 开始使用
       link: /usage
+    - theme: alt
+      text: 下载（最新2.6.0版本）
+      link: /download
   image:
     src: /home_logo.png
     alt: 闪电藤
