@@ -4,9 +4,6 @@ outline: deep
 
 # 常见问题
 
-## 最新macos 15 beta版本打开后白屏
-请把闪电藤.app重命名为sdt.app，再打开即可
-
 ## 部分win7电脑打开黑屏
 
 如下图所示：
@@ -66,3 +63,15 @@ outline: deep
 
 解决方法：windows电脑端切换成自动获取ip（切换后，手机端刷新一下，可以重新获取设备ip）
 
+## Mac版本启动报“恶意软件”导致无法启动
+
+通常来说启动会报一个异常提醒，如下图：
+<img style="max-height: 300px;" src="./images/docs/WX20231015-112810@2x.png">
+
+我们点“好”后，把Mac的系统设置打开，找到“隐私与安全性”，在“安全性”下可以发现阻止打开的提示，点“仍要打开”即可，如下图所示：
+<img style="max-height: 300px;" src="./images/docs/WX20231015-112957@2x.png">
+
+因为目前闪电藤尚未上架到mac appstore，所以会有这样的提示，后面我们会上架上去，到时候就直接可以在mac appstore上直接搜索“闪电藤”下载了。
+
+## 最新mac15系统打开白屏
+请把闪电藤.app重命名为sdt.app，再打开即可

@@ -8,11 +8,8 @@ hero:
   tagline: 安全、快速、稳定，像聊天一样传文件
   actions:
     - theme: brand
-      text: 使用说明
-      link: /about
-    - theme: alt
-      text: 下载（最新2.5.5版本）
-      link: /download
+      text: 开始使用
+      link: /usage
   image:
     src: /home_logo.png
     alt: 闪电藤
