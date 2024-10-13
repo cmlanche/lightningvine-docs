@@ -12,7 +12,7 @@ outline: deep
 闪电藤的目标是成为大家手边方便快捷的万能传输助手，逐步代替微信文件传输助手和快牙，我深知目前闪电藤还有很多缺陷，但请大家放心，我会竭力开发好闪电藤，不辜负大家的期望！
 
 您可以关注我们的微信公众号，向我们反馈需求 or BUG
-<img style="max-height: 200px;" src="./images/gzh.jpg" />
+<img style="max-height: 200px;" src="docs/images/gzh.jpg" />
 
 ## 2. 下载
 到[这里](/download)下载
