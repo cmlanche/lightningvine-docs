@@ -65,7 +65,8 @@ var _hmt = _hmt || [];
 function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '主页', link: '/' },
-    { text: '常见问题', link: '/qa' }
+    { text: '常见问题', link: '/qa' },
+    { text: '友链', link: '/frendlinks' },
   ]
 }
 
@@ -75,13 +76,11 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: '说明文档',
       collapsed: false,
       items: [
-        { text: '简介', link: '/about' },
         { text: '开始使用', link: '/usage' },
         { text: '网盘功能', link: '/pan' },
         { text: '使用场景', link: '/scene' },
         { text: '常见问题', link: '/qa' },
         { text: '下载', link: '/download' },
-        { text: '隐私政策', link: '/privacy' },
       ]
     }
   ]

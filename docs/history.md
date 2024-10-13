@@ -4,6 +4,173 @@ outline: deep
 
 # 历史版本
 
+## 2.5.5 - 2024/09/22
+
+> 常见问题：见[地址](/qa.html)
+
+特别说明：由于Flutter最新引擎不支持win7了，此后最新最低版本支持win8，**win7请用2.1.9版本**（切勿升级）
+
+更新日志：
+- 修复：设备列表重复展示问题
+- 修复：移动端Pad模式下拒绝或者接收消息出现黑屏问题
+
+| 版本类型         | 下载地址                                                                                                                |
+  | ------------ |---------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载                                       |
+  | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-Ynfk) 如果打开白屏请在应用程序中将闪电藤重命名为SDT再打开                                                       |
+  | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-nnfk)                                                |
+  | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-Xnfk)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-Wnfk) |
+
+
+## 2.5.1 - 2024/09/17
+
+> 常见问题：见[地址](/qa.html)
+
+特别说明：由于Flutter最新引擎不支持win7了，此后最新最低版本支持win8，**win7请用2.1.9版本**（切勿升级）
+
+新功能：
+1. 待发文件箱持久化（已添加的文件会永久保存，除非文件不存在或者主动删除）
+
+BUG修复：
+1. 修复windows闪电藤启动有黑框闪过问题
+2. 修复重装移动端app后，设备列表会新增重复设备问题
+3. 支持闪电藤已启动检测，禁止二次启动
+4. 修复图库分享文件出现重复2个文件问题
+
+| 版本类型         | 下载地址                                                                                                                |
+  | ------------ |---------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载                                       |
+  | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-VYfk) 如果打开白屏请在应用程序中将闪电藤重命名为SDT再打开                                                       |
+  | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-6Yfk)                                                |
+  | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-jYfk)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-kGfk) |
+
+
+## 2.3.5 - 2024/09/07
+
+> 常见问题：见[地址](/qa.html)
+
+特别说明：由于Flutter最新引擎不支持win7了，此后最新最低版本支持win8，**win7请用2.1.9版本**（切勿升级）
+
+新功能
+- 干掉ob数据库，解决app无法降级的问题（后期会彻底删除ob数据库，windows文档目录的objectbox文件夹后续会删除）
+- 增加通知栏常驻通知，支持快速打开闪电藤
+
+
+体验优化：
+- 滑动选择：支持向上滑动选择选择（原本已支持向下滑动选择） 
+- windows安装程序，勾选默认创建桌面快捷方式，并且默认取消自动启动（闪电藤自身有自动启动功能，避免打开2个闪电藤）
+- 关闭账户功能支持隐藏云助手
+- 设备离线时，支持在首页标记已离线（更清晰的展示闪电藤状态）
+- 文件管理增加文件名称显示
+
+问题修复：
+- 修复VR设备关闭闪电藤再进入会出现端口被占用的问题
+- 修复打开闪电藤自动跳转到登录的问题
+
+| 版本类型         | 下载地址                                                                                                                |
+  | ------------ |---------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载                                       |
+  | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-wJfk) 如果打开白屏请在应用程序中将闪电藤重命名为SDT再打开                                                       |
+  | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-MJfk)                                                |
+  | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-gJfk)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-JJfk) |
+
+
+## 2.3.0 - 2024/08/19
+
+> 常见问题：见[地址](/qa.html)
+
+特别说明：由于Flutter最新引擎不支持win7了，此后最新最低版本支持win8，**win7请用2.1.9版本**（切勿升级）
+
+**[全新功能]**
+1. 支持广域网传文字，不依赖局域网
+
+**[体验优化]**
+1. 首页新增三个快捷操作，分别是同步剪贴板、待发文件箱、设置
+
+**[BUG修复]**
+1. 修复出现“progress page”异常的问题
+
+| 版本类型         | 下载地址                                                                                                                |
+  | ------------ |---------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载                                       |
+  | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-H9fk) macos 15打开白屏请在应用程序中将闪电藤重命名为SDT再打开                                                       |
+  | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-A9fk)                                                |
+  | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-99fk)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-WQfk) |
+
+
+## 2.2.7 - 2024/07/27
+
+> 常见问题：见[地址](/qa.html)
+
+特别说明：由于Flutter最新引擎不支持win7了，此后最新最低版本支持win8，**win7请用2.1.9版本**（切勿升级）
+
+**[全新功能]**
+1. 新增文件管理页，所有文件统一管理
+2. 图库文件支持滑动选择
+
+**[体验优化]**
+1. 保存到相册不会再保存2份，只会保存到相册
+2. mac取消沙盒模式，避免没权限访问文件
+3. 优化上下文菜单，统一手机端和桌面端的菜单，现在更好看了
+4. 更换二维码扫描库，减少隐私问题同时缩小体积
+5. 优化视频播放，支持进度控制、静音、倍速功能
+
+**[BUG修复]**
+1. 修复文件删除不掉，缓存堆积的问题
+2. 文件传输过程中保持唤醒，避免锁屏导致文件传输中断
+
+| 版本类型         | 下载地址                                                                                                                |
+  | ------------ |---------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载                                       |
+  | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-Kzpk.html)                                                        |
+  | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-Szpk.html)                                                |
+  | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-lzpk.html)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-rzpk.html) |
+
+## 2.2.3 - 2024/06/09
+
+> 常见问题：见[地址](/qa.html)
+
+特别说明：由于Flutter最新引擎不支持win7了，此后最新最低版本支持win8，**win7请用2.1.9版本**（切勿升级）
+
+**[全新功能]**
+暂无
+
+**[体验优化]**
+1. 网址自动识别，并支持点击跳转到浏览器 @尘世之上 @TTBAMOV
+2. 相机权限只提醒一次，不再每次都提醒 @江月何年初照人
+3. 发送类型增加视频选择器，并且每次选择会停留在上次所选择的位置
+4. apk选择页加载过慢的问题，现在最多2s加载完 @凌芽
+5. 优化对话气泡，现在更好看了
+6. 文件消息展示文件名称，而不是文件路径
+
+**[BUG修复]**
+暂无
+
+| 版本类型         | 下载地址                                                                                                                |
+  | ------------ |---------------------------------------------------------------------------------------------------------------------|
+  | Linux-x64版本  | 星火应用商店搜“闪电藤”下载，[下载地址](https://www.123pan.com/s/cXByVv-DBpk.html)                                       |
+  | MacOS版本      | [下载地址](https://www.123pan.com/s/cXByVv-IBpk.html)                                                        |
+  | Windows一键安装版 | [下载地址](https://www.123pan.com/s/cXByVv-JBpk.html)                                                |
+  | Windows绿色版 | [下载地址](https://www.123pan.com/s/cXByVv-MBpk.html)                                                |
+  | Windows 7 | 请用2.1.9且不要升级 [下载地址](https://www.123pan.com/s/cXByVv-zNpk.html)                                                |
+  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
+  | 安卓apk        | [下载地址](https://www.123pan.com/s/cXByVv-VRpk.html) |
+
 ## 2.2.1 - 2024/05/19
 
 > 常见问题：见[地址](/qa.html)
@@ -49,16 +216,6 @@ outline: deep
 **[BUG修复]**
 1. app降级时遇到数据库不兼容的问题，支持一键数据库重建
 
-| 版本类型         | 下载地址                                                                                                                |
-  | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/220/sdt-2.2.0-macos.dmg)                                                        |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/220/sdt-2.2.0-windows.exe)                                                |
-  | Windows绿色版 | [下载地址](https://cdn.zishu.life/220/sdt-windows-220.zip)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/220/sdt-220-android.apk)<br/><br/>![](https://cdn.zishu.life/220/qr-220-apk.png) |
-
-
 ## 2.1.9 - 2024/04/13
 
 > 常见问题：见[地址](/qa.html)
@@ -71,15 +228,6 @@ outline: deep
 
 **[BUG修复]**
 1. 解决剪贴板文本过大，导致UI卡死问题，现在最多展示500字，用独立的弹框查看全部
-
-| 版本类型         | 下载地址                                                                                                                |
-  | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.9/sdt-2.1.9-macos.dmg)                                                        |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.9/sdt-2.1.9-windows.exe)                                                |
-  | Windows绿色版 | [下载地址](https://cdn.zishu.life/2.1.9/闪电藤2.1.9.zip)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.9/sdt-2.1.9-android.apk)<br/><br/>![](https://cdn.zishu.life/2.1.9/qr-2.1.9.png) |
 
 
 ## 2.1.8 - 2024/04/04
@@ -98,15 +246,6 @@ outline: deep
 
 **[BUG修复]**
 1. 修复移动端收到更新时，切tab页更新弹框总是弹出的问题
-
-| 版本类型         | 下载地址                                                                                                                |
-  | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.8/sdt-2.1.8-macos.dmg)                                                        |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.8/sdt-2.1.8-windows.exe)                                                |
-  | Windows绿色版 | [下载地址](https://cdn.zishu.life/2.1.8/sdt-2.1.8-release.zip)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.8/sdt-android-2.1.8.apk)<br/><br/>![](https://cdn.zishu.life/2.1.8/qr-2.1.8.jpeg) |
 
 ## 2.1.7 - 2024/03/17
 
@@ -130,15 +269,6 @@ outline: deep
 2. 修复扫码连接多IP设备只连第一个IP的问题
 3. dwg的格式文件的回显问题 @面条渣渣
 
-| 版本类型         | 下载地址                                                                                                                |
-  | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | 暂未打包，后续补上，旧版本仍然可以通过“星火商店”下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/217/sdt-macos-2.1.7.zip)                                                        |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/217/sdt-windows-2.1.7.zip)                                                      |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/217/sdt-2.1.7-windows-installer.exe)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可 （2.1.7暂未上架，需要等一段时间）                                                                                          |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/217/sdt-android-2.1.7.apk)<br/><br/>![](https://cdn.zishu.life/217/2.1.7-android-qr.png) |
-
 ## 2.1.6 - 2024/03/16
 
 > 常见问题：见[地址](/qa.html)
@@ -155,16 +285,6 @@ outline: deep
 2. 修复扫码连接多IP设备只连第一个IP的问题
 3. dwg的格式文件的回显问题 @面条渣渣
 
-| 版本类型         | 下载地址                                                                                                                |
-  | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/216/sdt-linux-2.1.6.zip)   或者在deepin和星火应用商店下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/216/sdt-macos-2.1.6.zip)                                                        |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/216/sdt-windows-2.1.6.zip)                                                      |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/216/sdt-2.1.6-windows-installer.exe)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可 （2.1.6暂未上架，需要等一段时间）                                                                                          |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/216/sdt-android-2.1.6.apk)<br/><br/>![](https://cdn.zishu.life/216/android-2.1.6-qr.png) |
-
-
 ## 2.1.3 - 2024/02/03
 
 > 常见问题：见[地址](/qa.html)
@@ -178,15 +298,6 @@ outline: deep
 7. 【体验优化】登录功能作为一个设置项，支持关闭（不需要账户也可以顺畅使用）
 8. 【体验优化】移动端会话页菜单优化，长按弹起饼状菜单
 9. 【bug修复】修复从pad模式切换到手机模式时，如果tab在设置上会奔溃问题
-
-| 版本类型         | 下载地址                                                                                                                |
-  | ------------ |---------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-linux.zip)   或者在deepin和星火应用商店下载                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-macos-fix.zip)                                                        |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-fix.zip)                                                      |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3-windows-installer.exe)                                                |
-  | iOS          | 已上架到App Store，搜索“闪电藤”下载即可                                                                                           |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.3/sdt-2.1.3.apk)<br/><br/>![](https://cdn.zishu.life/2.1.3/qr-2.1.3-apk.png) |
 
 ## 2.1.2 - 2024/01/07
 
@@ -207,15 +318,6 @@ outline: deep
 
 windows7系统，请下载2.1.1版本，见[历史版本](history.html)
 
-- | 版本类型         | 下载地址                                                                                                                                          |
-    | ------------ |-----------------------------------------------------------------------------------------------------------------------------------------------|
-  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/2.1.2/sd-2.1.2-linux.zip)                                                                                       |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2.macos.zip)                                                                                      |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/2.1.2/sdtt-2.1.2.windows.zip)                                                                                   |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2-windows-installer.exe)                                                                          |
-  | iOS          | 上架中，可以通过tf提前参与内测：[https://testflight.apple.com/join/2Wx9jmUo](https://testflight.apple.com/join/2Wx9jmUo)  <br> [ipa下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2.ipa)                   |
-  | 安卓apk        | <br/>[下载地址](https://cdn.zishu.life/2.1.2/sdt-2.1.2-release.apk)<br/><br/>![](https://cdn.zishu.life/2.1.2/qr-android-2.1.2.png) |
-
 ## 2.1.1 - 2023/12/16
 
 > 常见问题：见[地址](/qa.html)
@@ -227,15 +329,6 @@ windows7系统，请下载2.1.1版本，见[历史版本](history.html)
 - 【BUG】PC（包括windows、linux、macos）端互发消息后，发送端会黑屏 @普通的disco
 
 - 【BUG】PC端互发消息，发送端取消后发送端黑屏 @普通的disco
-
-- | 版本类型         | 下载地址                                                                                                                                            |
-  | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Linux-x64版本  | [下载地址](https://cdn.zishu.life/211/sdt-2.1.1-linux-x64.zip)                                                                        |
-  | MacOS版本      | [下载地址](https://cdn.zishu.life/211/sdt-2.1.1-macos.zip)                                                                            |
-  | Windows绿色版   | [下载地址](https://cdn.zishu.life/211/sdt-2.1.1-windows-x64.zip)                                                                      |
-  | Windows一键安装版 | [下载地址](https://cdn.zishu.life/211/sdt-2.1.1-windows-installer.exe)                                                                |
-  | iOS          | 上架中，可以通过tf提前参与内测：[https://testflight.apple.com/join/2Wx9jmUo](https://testflight.apple.com/join/2Wx9jmUo)                                       |
-  | 安卓apk        | [下载地址](https://cdn.zishu.life/211/sdt-2.1.1-v8a-release.apk)<br/>![](https://lightningvine.s3.bitiful.net/211/qr-211-v8a-apk.png) |
 
 ## 2.1.0 - 2023/12/10
 
@@ -261,16 +354,6 @@ windows7系统，请下载2.1.1版本，见[历史版本](history.html)
 
 - 【体验优化】发送完文件以后，能自动完成，不需要再次点击完成 反馈用户：@普通的disco
 
-  | 版本类型                             | 下载地址                                                                 | 二维码                                        |
-  | -------------------------------- | -------------------------------------------------------------------- | ------------------------------------------ |
-  | Linux-x64版本                      | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-linux.zip)               |                                            |
-  | MacOS版本                          | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-macos.zip)               |                                            |
-  | Windows绿色版                       | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-windows-green.zip)       |                                            |
-  | Windows一键安装版                     | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-windows-installer.exe)   |                                            |
-  | 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-release.apk)             | <img src="./images/apk_all.png" width=160> |
-  | 安卓arm64-v8a                      | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-arm64-v8a-release.apk)   | <img src="./images/apk_v8a.png" width=160> |
-  | 安卓armeabi-v7a                    | [下载地址](https://cdn.zishu.life/2.1.0/sdt-210-armeabi-v7a-release.apk) | <img src="./images/apk_v7a.png" width=160> |
-
 ## 2.0.5 - 2023/11/19
 
 - 【新需求】发布ios testflight（公测申请审核中，需要等待2天左右时间）
@@ -283,34 +366,12 @@ windows7系统，请下载2.1.1版本，见[历史版本](history.html)
 
 - 【bugfix】移除英文翻译，彻底中文化
 
-  | 版本类型                             | 下载地址                                                               | 二维码                                                               |
-  | -------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
-  | Linux-x64版本                      | [下载地址](https://cdn.zishu.life/205/sdt-linux-2.0.5.zip)             |                                                                   |
-  | MacOS版本                          | [下载地址](https://cdn.zishu.life/205/sdt-macos-2.0.5.zip)             |                                                                   |
-  | Windows免安装版本                     | [下载地址](https://cdn.zishu.life/205/sdt-windows-2.0.5.zip)           |                                                                   |
-  | Windows一键安装版                     | [下载地址](https://cdn.zishu.life/205/sdt-windows-installer-2.0.5.exe) |                                                                   |
-  | 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://cdn.zishu.life/205/sdt-android-2.0.5.apk)           | <img src="https://cdn.zishu.life/205/android-qr.png" width=160>   |
-  | 安卓arm64-v8a                      | [下载地址](https://cdn.zishu.life/205/app-arm64-v8a-release.apk)       | <img src="https://cdn.zishu.life/205/qr-arm64-205.png" width=160> |
-  | 安卓armeabi-v7a                    | [下载地址](https://cdn.zishu.life/205/app-armeabi-v7a-release.apk)     | <img src="https://cdn.zishu.life/205/qr-v7a-205.png" width=160>   |
-  | 安卓x86-64                         | [下载地址](https://cdn.zishu.life/205/app-x86_64-release.apk)          | <img src="https://cdn.zishu.life/205/ar-x86-205.png" width=160>   |
-
 ## 2.0.3 - 2023/11/12
 
 - [feat] 剪贴板互传
 - [feat] 文本消息直接发送，不再转换成文件后再发送
 - [update] 更换了全新的闪电藤LOGO
 - [update] 分不同架构打包安卓apk，以减少安装体积（30M->11M）
-
-| 版本类型                             | 下载地址                                                                       | 二维码                                                                             |
-| -------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Linux-x64版本                      | [下载地址](https://cdn.zishu.life/203/2.0.3/linux/sdt-linux-x64-2.0.3.zip)     |                                                                                 |
-| MacOS版本                          | [下载地址](https://cdn.zishu.life/203/2.0.3/macos/sdt-macos-2.0.3.zip)         |                                                                                 |
-| Windows免安装版本                     | [下载地址](https://cdn.zishu.life/203/2.0.3/windows/sdt-windows-2.0.3.zip)     |                                                                                 |
-| Windows一键安装版                     | [下载地址](https://cdn.zishu.life/203/2.0.3/windows/sdt-installer.exe)         |                                                                                 |
-| 安卓全架构版本<br />（不知道选哪个架构，选这个版本就对了） | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-universal-2.0.3.apk)   | <img src="https://cdn.zishu.life/203/2.0.3/android/qr-universal.png" width=160> |
-| 安卓-arm64_v8a                     | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-arm64-v8a-2.0.3.apk)   | <img src="https://cdn.zishu.life/203/2.0.3/android/arm64-v8a.png" width=160>    |
-| 安卓-armeabi_v7a                   | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-armeabi-v7a-2.0.3.apk) | <img src="https://cdn.zishu.life/203/2.0.3/android/qr-v7a.png" width=160>       |
-| 安卓-x86_64                        | [下载地址](https://cdn.zishu.life/203/2.0.3/android/sdt-x86_64-2.0.3.apk)      | <img src="https://cdn.zishu.life/203/2.0.3/android/qr-x86.png" width=160>       |
 
 ## 2.0.2
 
@@ -331,13 +392,6 @@ windows7系统，请下载2.1.1版本，见[历史版本](history.html)
 
 ## 2.0.1
 
-- [Android](https://cdn.zishu.life/2.0.1/lightningvine_android_201.apk)
-  <img style="max-height: 200px;" src="https://cdn.zishu.life/2.0.1/android201qr.png">
-- [Windows64位绿色免安装版](https://cdn.zishu.life/2.0.1/lightningvine_x64_windows_201.zip)
-- [Windows64位一键安装版](https://cdn.zishu.life/2.0.1/lightningvine_x64_windows_installer_201.exe)
-- [MacOS版本](https://cdn.zishu.life/2.0.1/LightningVine_macos_201.zip)
-- iOS版本目前未上线，暂时请用LocalSend代替，在App Store搜索LocalSend即可
-
 **更新内容：**
 
 - feat: 支持消息的复制、删除、重发
@@ -346,11 +400,6 @@ windows7系统，请下载2.1.1版本，见[历史版本](history.html)
 - feat：安卓/MacOS下，支持预览图片和视频
 
 ## 2.0.0
-
-- [安卓版本](https://cdn.zishu.life/2.0/lightningvine-2.0.apk)
-  <img style="max-height: 200px;" src="https://cdn.zishu.life/docs/2_0_qrcode.png">
-- [Windows版本](https://cdn.zishu.life/2.0/lightningvine-windows.zip)
-- [MacOS版本](https://cdn.zishu.life/2.0/LightningVine-mac-2.0.zip)
 
 **更新内容：**
 
