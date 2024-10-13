@@ -12,6 +12,7 @@ outline: deep
 闪电藤的目标是成为大家手边方便快捷的万能传输助手，逐步代替微信文件传输助手和快牙，我深知目前闪电藤还有很多缺陷，但请大家放心，我会竭力开发好闪电藤，不辜负大家的期望！
 
 您可以关注我们的微信公众号，向我们反馈需求 or BUG
+
 <img style="max-height: 200px;" src="docs/images/gzh.jpg" />
 
 ## 2. 下载
@@ -44,27 +45,27 @@ outline: deep
 
 #### 4.1.1 建桶
 先创建一个桶，为了安全性，建议使用私有桶。
-![alt text](./images/usage/image-8.png)
-![alt text](./images/usage/image-9.png)
+![alt text](docs/images/usage/image-8.png)
+![alt text](docs/images/usage/image-9.png)
 
 #### 4.1.2 服务器地址 / 可用区
 在桶信息下可以找到服务端点和服务可用区，如下图所示：
-![alt text](./images/usage/image.png)
+![alt text](docs/images/usage/image.png)
 
 #### 4.1.3 Access Key / Secret Key
 1. 先添加子账户，如下图所示：
-![alt text](./images/usage/image-1.png)
+![alt text](docs/images/usage/image-1.png)
 
 2. 再给子账户授予权限，如下图所示：只需要读和写权限即可
-![alt text](./images/usage/image-2.png)
+![alt text](docs/images/usage/image-2.png)
 
 3. 最后添加Key
-![alt text](./images/usage/image-3.png)
-![alt text](./images/usage/image-4.png)
+![alt text](docs/images/usage/image-3.png)
+![alt text](docs/images/usage/image-4.png)
 
 #### 4.1.4 在闪电藤上设置
-![alt text](./images/usage/image-7.png)
-![alt text](./images/usage/image-5.png)
+![alt text](docs/images/usage/image-7.png)
+![alt text](docs/images/usage/image-5.png)
 
 ### 4.2 Minio私有云
 #### 4.2.1 搭建私服
@@ -72,13 +73,13 @@ outline: deep
 
 #### 4.2.2 服务器地址
 - Minio服务启动后，会打印API地址，如下图所示，这个API地址也对应闪电藤中的服务器地址
-![alt text](./images/usage/image-6.png)
+![alt text](docs/images/usage/image-6.png)
 
 #### 4.2.3 可用区
 闪电藤上不用填写
 
 #### 4.2.4 Access Key和Secret Key
-![alt text](./images/usage/image-10.png)
+![alt text](docs/images/usage/image-10.png)
 
 
 ### 4.3 腾讯COS
