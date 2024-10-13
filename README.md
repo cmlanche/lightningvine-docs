@@ -77,7 +77,7 @@
 
 
 ### 4.3 腾讯COS
-服务器地址：`https://cos.{地区}.myqcloud.com`，比如您的存储在广州的话，地区可以用ap-guangzhou来代替，如：`https://cos.ap-guangzhou.myqcloud.com`，地区表建链接：[地域和可用区](https://cloud.tencent.com/document/product/213/6091)
+服务器地址：`https://cos.{地区}.myqcloud.com`，比如您的存储在广州的话，地区可以用ap-guangzhou来代替，如：`https://cos.ap-guangzhou.myqcloud.com`，地区表见链接：[地域和可用区](https://cloud.tencent.com/document/product/213/6091)
 
 要创建腾讯云访问秘钥，链接是：[API密钥管理](https://console.cloud.tencent.com/cam/capi)，创建好后，SecretId对应闪电藤的Access Key，另外一个对应Secret Key。
 
