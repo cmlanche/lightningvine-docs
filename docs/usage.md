@@ -42,7 +42,7 @@ outline: deep
 ### 4.1 缤纷云
 这里优先推荐使用[缤纷云](https://www.bitiful.com/)，它可以先使用后付费，而且价格相比腾讯阿里要便宜一倍，可以看这个[价格对比表](https://docs.bitiful.com/prices/compare)
 
-### 4.1.1 建桶
+#### 4.1.1 建桶
 先创建一个桶，为了安全性，建议使用私有桶。
 ![alt text](./images/usage/image-8.png)
 ![alt text](./images/usage/image-9.png)
